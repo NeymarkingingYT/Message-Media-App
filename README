@@ -1,0 +1,9 @@
+# Chat App 💬
+
+A simple real-time chat app using Node.js and Socket.IO.
+
+## 🛠 How to Run
+
+```bash
+npm install
+npm start
